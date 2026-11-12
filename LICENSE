@@ -1,0 +1,33 @@
+Copyright (c) 2026 33333s. All rights reserved.
+
+中文
+
+本仓库中的固件文件及其内容（包括解密后的内容）均为版权所有者的专有作品。
+除非事先获得版权所有者的书面许可，任何人不得：
+  1. 复制、再分发、转载、镜像或以任何方式向他人提供这些文件或其中任何部分；
+  2. 修改、改编、解密、反编译、反向工程或以这些文件为基础制作衍生作品；
+  3. 出售、出租、转让、倒卖或以其他任何方式将其用于商业目的。
+本仓库公开可见不代表授予任何许可。未经授权的使用将被追究责任。
+
+固件中包含的第三方组件（例如 Linux 内核、OpenWrt 软件包及设备厂商的程序）仍分别适用其各自的许可证；
+本声明不限制这些许可证依法赋予的权利，只适用于版权所有者自己的作品以及固件作为整体的编排和发布。
+
+文件按“现状”提供，不附带任何形式的保证。使用风险由使用者自行承担。
+
+English
+
+The firmware files in this repository and their contents (including the decrypted contents) are the
+proprietary work of the copyright holder. Without the prior written permission of the copyright holder,
+no one may:
+  1. copy, redistribute, republish, mirror or otherwise make these files or any part of them available
+     to anyone else;
+  2. modify, adapt, decrypt, decompile, reverse engineer or create derivative works based on them;
+  3. sell, rent, transfer, resell or otherwise use them for any commercial purpose.
+The public visibility of this repository does not grant any license. Unauthorized use will be pursued.
+
+Third-party components contained in the firmware (for example the Linux kernel, OpenWrt packages and
+the device maker's programs) remain under their own licenses; this notice does not restrict the rights
+those licenses grant by law, and applies only to the copyright holder's own work and to the selection,
+arrangement and distribution of the firmware as a whole.
+
+The files are provided "as is", without warranty of any kind. Use at your own risk.

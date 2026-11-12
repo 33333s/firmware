@@ -1,0 +1,10 @@
+# Only encrypted firmware (*.enc), the documents and the folder markers belong
+# in this repository.  Plain images, packages and keys are never committed.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!*/
+!*/.gitkeep
+!*/*.enc
