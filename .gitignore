@@ -1,5 +1,6 @@
-# Only encrypted firmware (*.enc), the documents and the folder markers belong
-# in this repository.  Plain images, packages and keys are never committed.
+# Only encrypted firmware (*.enc), the documents, the folder markers and the
+# screenshots (screenshots/<device>/*.png) belong in this repository.  Plain
+# images, packages and keys are never committed.
 *
 !.gitignore
 !.gitattributes
@@ -8,3 +9,4 @@
 !*/
 !*/.gitkeep
 !*/*.enc
+!screenshots/**/*.png
