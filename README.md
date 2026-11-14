@@ -30,7 +30,7 @@
 
 ![屏幕界面](screenshots/mu5358/screen-strip.png)
 
-更多图片在 [`screenshots/mu5358/`](screenshots/mu5358/)。网页截图来自真机，Wi-Fi 名称和壁纸已替换；屏幕截图由屏幕程序的模拟器渲染，数据是模拟的。
+更多图片在 [`screenshots/mu5358/`](screenshots/mu5358/)。
 
 版权所有，保留一切权利。未经许可不得复制、再分发、修改或出售，详见 [LICENSE](LICENSE)。
 
@@ -62,6 +62,6 @@ The round touch screen:
 
 ![Screen](screenshots/mu5358/screen-strip.png)
 
-More in [`screenshots/mu5358/`](screenshots/mu5358/). The web screenshots are from a real device with the Wi-Fi name and wallpaper replaced; the screen shots are rendered by the screen program's simulator with simulated data.
+More in [`screenshots/mu5358/`](screenshots/mu5358/).
 
 Copyright, all rights reserved. No copying, redistribution, modification or sale without permission; see [LICENSE](LICENSE).
