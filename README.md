@@ -16,6 +16,22 @@
 - 每个目录的 `index.enc` 是更新索引，设备的在线更新读它。
 - 旧版本一直保留，不会删除。
 
+### U60 Pro 截图
+
+网页（LuCI，中文界面）：
+
+| 概览 | 蜂窝 |
+|---|---|
+| ![概览](screenshots/mu5250/luci-overview.png) | ![蜂窝](screenshots/mu5250/luci-cell.png) |
+| **Wi-Fi** | **固件更新与在线更新** |
+| ![Wi-Fi](screenshots/mu5250/luci-wifi.png) | ![固件更新](screenshots/mu5250/luci-update.png) |
+
+机身 3.5 寸触屏：
+
+![屏幕界面](screenshots/mu5250/screen-strip.png)
+
+更多图片在 [`screenshots/mu5250/`](screenshots/mu5250/)。
+
 ### U30 Pro 截图
 
 网页（LuCI，中文界面）：
@@ -47,6 +63,22 @@ Release repository for custom device firmware.
 - In `mu5358/`, firmware files are named `mu5358-openwrt-<version>-a.enc` and `-b.enc`: full packages for slot A and slot B (a device running slot B takes `-a`, one running slot A takes `-b`).
 - `index.enc` in each folder is the update index the devices' online update reads.
 - Older versions are kept and never deleted.
+
+### U60 Pro screenshots
+
+Web interface (LuCI, Chinese):
+
+| Overview | Cellular |
+|---|---|
+| ![Overview](screenshots/mu5250/luci-overview.png) | ![Cellular](screenshots/mu5250/luci-cell.png) |
+| **Wi-Fi** | **Firmware update and online update** |
+| ![Wi-Fi](screenshots/mu5250/luci-wifi.png) | ![Firmware update](screenshots/mu5250/luci-update.png) |
+
+The 3.5-inch touch screen:
+
+![Screen](screenshots/mu5250/screen-strip.png)
+
+More in [`screenshots/mu5250/`](screenshots/mu5250/).
 
 ### U30 Pro screenshots
 
