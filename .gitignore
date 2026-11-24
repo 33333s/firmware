@@ -10,3 +10,4 @@
 !*/.gitkeep
 !*/*.enc
 !screenshots/**/*.png
+!mu5250-release/mirror/*.enc
